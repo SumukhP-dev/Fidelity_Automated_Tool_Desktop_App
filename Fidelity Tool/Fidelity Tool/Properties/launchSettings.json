@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Fidelity Tool (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Fidelity Tool (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
